@@ -6,5 +6,11 @@ public class GitTarea {
 		
 		//commentario
 	}
+	
+	public GitTarea2() {
+		// TODO Auto-generated constructor stub
+		
+		//commentario
+	}
 
 }
